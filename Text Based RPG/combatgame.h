@@ -1,0 +1,1 @@
+bool CombatGame(int weapon);
